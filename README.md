@@ -1,0 +1,1 @@
+# Sopel-IRCBOT-reply-to-word-plugin
